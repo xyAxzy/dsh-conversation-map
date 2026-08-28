@@ -4,6 +4,8 @@ Conversation map for DeepSeek Harness web: a live tree of every session in the w
 
 DSH 对话地图：当前工作区全部会话的实时树状图，子代理谱系、运行状态一目了然，点击即跳转。
 
+![preview](assets/preview.png)
+
 ## Features
 
 - **对话地图**：全部会话按工作区（cwd）分组的实时树状图
