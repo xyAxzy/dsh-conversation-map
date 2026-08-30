@@ -1,7 +1,7 @@
 {
   "name": "dsh-conversation-map",
   "description": "Conversation map for DeepSeek Harness web: a live tree of every session in the workspace — subagent lineage, running state, and one-click navigation. · DSH 对话地图：当前工作区全部会话的实时树状图，子代理谱系、运行状态一目了然，点击即跳转。",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "type": "module",
   "main": "lib/index.js",
   "license": "MIT",
