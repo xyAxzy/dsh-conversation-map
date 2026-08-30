@@ -6,7 +6,7 @@ DSH 对话地图：当前工作区全部会话的实时树状图，子代理谱�
 
 > **v0.2.0** — 树状自动排版 + 工作区主题色贯穿 + 方格本便签风
 
-![preview](assets/preview.png)
+![preview](assets/preview-v2.png)
 
 ## Features
 
